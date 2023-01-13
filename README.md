@@ -1,5 +1,5 @@
 # react-calculator
-A simple minimaslistic mathematical calculator made using React.js.
+A simple minimalistic mathematical calculator made using React.js.
 
 # Hosted on Netlify
   https://darsh-webdev-react-calculator.netlify.app/
